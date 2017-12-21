@@ -3,7 +3,7 @@ package config
 import (
 	"log"
 
-	"github.com/Seven-Year/saas-ms-gordon/gosh"
+	"github.com/stackcats/gosh"
 )
 
 // Qiniu 七牛配置
